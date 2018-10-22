@@ -5,15 +5,15 @@
 - [X] A Thousand Splendid Suns
 - [ ] Angles and Demons
 
-## Travel ##
+### Travel ###
 
 - [ ] Goa
 - [ ] Bhutan
 - [ ] Sikkim
 
-## Series ##
+### Series ###
 
-## Courses ##
+### Courses ###
 
-## Food ##
+### Food ###
 

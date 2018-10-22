@@ -1,7 +1,19 @@
 # Bucket-List
 
-# Books
+## Books ##
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [X] A Thousand Splendid Suns
+- [ ] Angles and Demons
+
+## Travel ##
+
+- [ ] Goa
+- [ ] Bhutan
+- [ ] Sikkim
+
+## Series ##
+
+## Courses ##
+
+## Food ##
+

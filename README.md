@@ -26,5 +26,6 @@
 ### Conferences and All  ###
 
 - [X] HIPC conference [https://hipc.org/]
+- [X] JeJu Deep Learning Camp [http://jeju.dlcamp.org/2018/]
 
 

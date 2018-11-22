@@ -22,3 +22,9 @@
 
 ### Food ###
 
+
+### Conferences and All  ###
+
+- [X] HIPC conference [https://hipc.org/]
+
+

@@ -28,4 +28,4 @@
 - [ ] HIPC conference [https://hipc.org/]
 - [ ] JeJu Deep Learning Camp [http://jeju.dlcamp.org/2018/]
 - [ ] Kubecon [https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/attend/#diversity-scholarships]
-
+- [ ] PyTorch Facebook Udacity Scholarship [https://in.udacity.com/facebook-pytorch-scholarship]

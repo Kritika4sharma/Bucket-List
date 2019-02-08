@@ -13,6 +13,7 @@
 - [ ] Bhutan
 - [ ] Sikkim
 - [ ] Kerala
+- [ ] Murthal in Haryana
 
 ### Series ###
 
